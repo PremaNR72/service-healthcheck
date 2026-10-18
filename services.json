@@ -1,0 +1,14 @@
+[
+    {
+        "name": "HTTPBin Success",
+        "url": "https://httpbin.org/status/200"
+    },
+    {
+        "name": "HTTPBin Delayed",
+        "url": "https://httpbin.org/delay/3"
+    },
+    {
+        "name": "HTTPBin Service Unavailable",
+        "url": "https://httpbin.org/status/503"
+    }
+]
