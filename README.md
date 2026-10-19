@@ -53,7 +53,7 @@ GitHub API      UP      200   180       1
 Broken endpoint DOWN    503   240       3      unexpected status 503
 1/2 services up
 ```
-![Sample output](docs/screenshot.png)
+  ![Sample output](docs/Screenshot.png)
 
 ## Docker
 ```bash
