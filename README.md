@@ -1,6 +1,6 @@
 # Service Health-Check CLI
 
-![CI](https://github.com/YOUR-USERNAME/service-healthcheck/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/PremaNR72/service-healthcheck/actions/workflows/ci.yml/badge.svg)
 
 A small Python CLI that checks a list of websites/APIs after a deployment, retries failures,
 logs every attempt, prints a summary table, and **exits non-zero if anything is down**, so it can
