@@ -1,0 +1,7 @@
+{
+  "services": [
+    {"name": "GitHub API", "url": "https://api.github.com", "expected_status": 200},
+    {"name": "Example site", "url": "https://example.com"},
+    {"name": "Broken endpoint", "url": "https://httpbin.org/status/503"}
+  ]
+}
